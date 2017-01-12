@@ -14,8 +14,6 @@ Udacity - Javascript Design Pattern
 ## Interaction
 * The number of clicks should increment when each cat picture is clicked.
 
-[Link To Requirement](https://classroom.udacity.com/courses/ud989/lessons/3417188540/concepts/34408790480923)
-
 
 ## Project Requirement for Cat Clicker (done in commit 941672)
 
@@ -26,4 +24,4 @@ Udacity - Javascript Design Pattern
 ### Interaction
 * The number of clicks should increment when the cat picture is clicked.
 
-[Link To Requirement](https://classroom.udacity.com/courses/ud989/lessons/3417188540/concepts/34381789490923#)
+[Link To Course](https://classroom.udacity.com/courses/ud989/lessons/3417188540/concepts/34381789490923#)
